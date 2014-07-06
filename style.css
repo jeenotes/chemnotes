@@ -1,0 +1,16 @@
+h1,h2,h3,h4,h5,h6{
+font-family:'Roboto';
+}
+
+a, p{
+font-family:'Roboto';
+font-weight: 300;
+}
+
+table{
+font-family:'Roboto';
+}
+
+body { 
+    width: 960px; margin: 0 auto; 
+}
